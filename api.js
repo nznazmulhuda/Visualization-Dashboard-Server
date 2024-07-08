@@ -21,5 +21,4 @@
 
 * only source name ==> /allData?source=true
 * get a specific source data ==> /allData?source=source
-
 */
